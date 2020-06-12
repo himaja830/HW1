@@ -5,7 +5,7 @@
 }
 
 body,
-.header h1 {         /*Both of these element and class have same background-color*/
+.header h1 .seo{         /*Both of these element and class have same background-color*/
     background-color: #d9dcd6;
 }
 
